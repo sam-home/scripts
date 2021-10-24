@@ -1,6 +1,6 @@
 # Zertifikate erstellen
 
-Mit der Datei ==certificate.sh== kann man Zertifikate erstellen. Der Befehl dazu ist:
+Mit der Datei `certificate.sh` kann man Zertifikate erstellen. Der Befehl dazu ist:
 
 ```bash
 certificate.sh <domain>
